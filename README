@@ -1,0 +1,6 @@
+# Sqlite helper
+
+how to use? Move dbhelper.py to your project, import this
+```py
+import dbhelper as dbh
+```
